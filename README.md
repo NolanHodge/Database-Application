@@ -1,3 +1,5 @@
+![Alt text](/ScreenshotsView_All_Clients.png?raw=true "Viewing Clients")
+
 COMP 3005 DATABASE APPLICATION
 
 	This repo is an entirely free to anyone learning GTK#, Mono, or even SQLite.
