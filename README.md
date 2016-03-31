@@ -37,7 +37,7 @@ TO RUN APPLICATION:
               gtk-sharp3                      - GTK# 3.0 suite, CLI bindings for GTK+ (http://www.mono-project.com/docs/gui/gtksharp/)
       
 I hope I made this as easy as possible!
-I can also demo the applciation if you are unable to run it.
+I can also demo the application if you are unable to run it.
 
 Thanks!
 
