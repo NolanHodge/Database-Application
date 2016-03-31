@@ -3,7 +3,7 @@ COMP 3005 DATABASE APPLICATION
 	This repo is an entirely free to anyone learning GTK#, Mono, or even SQLite.
 	The application was created for COMP3005 Database class at Carleton University.
 	
-	The goal of this application is to demonstrate the usage of SQLite within a desktop applicationn.
+	The goal of this application is to demonstrate the usage of SQLite within a desktop application.
 
 
 TO RUN APPLICATION:
