@@ -1,4 +1,4 @@
-![Alt text](/ScreenshotsView_All_Clients.png?raw=true "Viewing Clients")
+![Alt text](/Screenshots/View_All_Clients.png?raw=true "Viewing Clients")
 
 COMP 3005 DATABASE APPLICATION
 
