@@ -19,9 +19,9 @@ TO RUN APPLICATION:
 
    3. Run these commands:
 
-	  	sudo apt-get install mono-devel
+	sudo apt-get install mono-devel
 
-          sudo apt-get install gtk-sharp3
+	sudo apt-get install gtk-sharp3
 
    4. Once both libraries are installed then, via the terminal, open the 'Release' folder included with the code.
       type the command 'mono 3005DatabaseApplication.exe' and the GUI will open.
