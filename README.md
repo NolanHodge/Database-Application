@@ -1,16 +1,14 @@
+#Gtk and SQLite Pharmacy MAnagement System
+
 ![Alt text](/Screenshots/View_All_Clients.png?raw=true "Viewing Clients")
 
-COMP 3005 DATABASE APPLICATION
 
 	This repo is entirely free to anyone learning GTK#, Mono, or even SQLite.
-	The application was created for COMP3005 Database class at Carleton University.
-	
-	The goal of this application is to demonstrate the usage of SQLite within a desktop application.
+		
+	The goal of this application is to demonstrate the usage of SQLite within a Gtk desktop application.
 
 
 TO RUN APPLICATION:
-
-   Here are the instructions to run the 3005DatabaseApplication GUI
 
    1. Open a linux environment with sudo access
 		you can use a VM or a full on linux/unix based computer
