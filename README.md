@@ -1,4 +1,4 @@
-#Gtk and SQLite Pharmacy MAnagement System
+#Gtk and SQLite Pharmacy Management System
 
 ![Alt text](/Screenshots/View_All_Clients.png?raw=true "Viewing Clients")
 
