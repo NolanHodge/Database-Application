@@ -39,6 +39,5 @@ I can also demo the application if you are unable to run it.
 
 Thanks!
 
-Nolan Hodge
-nolan.hodge@carleton.ca     
+Nolan   
 
